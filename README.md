@@ -1,5 +1,5 @@
 # vfa-workshop-exercise-merge-automacally-TrucLDT
-AAAAA  
+aaaaa  
 BBBBB  
 CCCCC  
 DDDDD  
